@@ -9,3 +9,5 @@ Jiawei Lyu,
 Yanxiong Chen
 
 Repo Link: https://github.com/DevinChen02/COGS188_GroupAAA_Project
+
+Note: The trained CNN model can be downloaded at the following link: https://drive.google.com/file/d/12LuF3DvBkZRul8mN-Up2tPB46bMNEIxV/view?usp=sharing
